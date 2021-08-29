@@ -1,0 +1,2 @@
+yarn add express cors mongodb dotenv
+npm install --save-dev nodemon
